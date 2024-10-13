@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Mindful Living: A Beginner's Guide",
+    "author": {
+      "name": "Jane Doe",
+      "bio": "Jane is a wellness enthusiast and life coach with over 10 years of experience in mindful living and holistic practices.",
+      "email": "jane.doe@example.com",
+      "image": "1.jpeg"
+    },
+    "date_published": "2024-10-14",
+    "tags": ["mindfulness", "wellness", "mental health"],
+    "categories": ["Lifestyle", "Health & Wellness"],
+    "comments": [
+      {
+        "user": "John Smith",
+        "comment": "Great post! I've been practicing mindfulness for a year, and it has truly changed my life.",
+        "date": "2024-10-15"
+      }
+    ],
+    "image": "1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "10 Essential Tips for Remote Work Success",
+    "author": {
+      "name": "John Miller",
+      "bio": "John is a productivity coach and remote work expert, helping professionals maximize efficiency in virtual work environments.",
+      "email": "john.miller@example.com"
+    },
+    "date_published": "2024-09-25",
+    "tags": ["remote work", "productivity", "work from home"],
+    "categories": ["Business", "Productivity"],
+    "comments": [
+      {
+        "user": "Emily White",
+        "comment": "These tips have been super helpful! Setting up a dedicated workspace made a huge difference.",
+        "date": "2024-09-26"
+      }
+    ],
+    "image": "2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Destinations for Adventure Travel in 2024",
+    "author": {
+      "name": "Sarah Johnson",
+      "bio": "Sarah is an avid traveler and adventure enthusiast who has explored over 50 countries.",
+      "email": "sarah.johnson@example.com"
+    },
+    "date_published": "2024-08-01",
+    "tags": ["travel", "adventure", "destinations"],
+    "categories": ["Travel", "Adventure"],
+    "comments": [
+      {
+        "user": "Mark Hunter",
+        "comment": "Iceland is definitely on my bucket list!",
+        "date": "2024-08-02"
+      }
+    ],
+    "image": "3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "How to Start a Successful Blog in 2024",
+    "author": {
+      "name": "Lucy Parker",
+      "bio": "Lucy is a digital marketing expert who specializes in helping individuals and businesses grow their online presence.",
+      "email": "lucy.parker@example.com"
+    },
+    "date_published": "2024-07-15",
+    "tags": ["blogging", "digital marketing", "content creation"],
+    "categories": ["Business", "Marketing"],
+    "comments": [
+      {
+        "user": "Rachel Green",
+        "comment": "I found this guide super helpful as I just started my blog!",
+        "date": "2024-07-16"
+      }
+    ],
+    "image": "4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Healthy Meal Prep Ideas for Busy Professionals",
+    "author": {
+      "name": "Tom Davis",
+      "bio": "Tom is a nutritionist and fitness coach dedicated to promoting healthy eating habits.",
+      "email": "tom.davis@example.com"
+    },
+    "date_published": "2024-06-10",
+    "tags": ["meal prep", "nutrition", "healthy eating"],
+    "categories": ["Health & Wellness", "Nutrition"],
+    "comments": [
+      {
+        "user": "Laura Thompson",
+        "comment": "These recipes are a lifesaver for my hectic work schedule!",
+        "date": "2024-06-11"
+      }
+    ],
+    "image": "5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mastering the Art of Public Speaking",
+    "author": {
+      "name": "James Wilson",
+      "bio": "James is a communication expert with over 15 years of experience in public speaking and presentation skills.",
+      "email": "james.wilson@example.com"
+    },
+    "date_published": "2024-05-05",
+    "tags": ["public speaking", "communication", "skills"],
+    "categories": ["Career", "Personal Development"],
+    "comments": [
+      {
+        "user": "Natalie Gray",
+        "comment": "These tips will really help me in my next presentation!",
+        "date": "2024-05-06"
+      }
+    ],
+    "image": "1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Benefits of Yoga for Mental Health",
+    "author": {
+      "name": "Emily Roberts",
+      "bio": "Emily is a yoga instructor and mental health advocate with a passion for holistic wellness.",
+      "email": "emily.roberts@example.com"
+    },
+    "date_published": "2024-04-20",
+    "tags": ["yoga", "mental health", "wellness"],
+    "categories": ["Health & Wellness", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Chris Lee",
+        "comment": "I've started yoga recently, and I feel so much more relaxed!",
+        "date": "2024-04-21"
+      }
+    ],
+    "image": "2.jpg"
+  },
+  {
+    "id": 8,
+    "title": "How to Build a Sustainable Wardrobe",
+    "author": {
+      "name": "Olivia Brown",
+      "bio": "Olivia is a fashion blogger focused on sustainability and eco-friendly fashion choices.",
+      "email": "olivia.brown@example.com"
+    },
+    "date_published": "2024-03-15",
+    "tags": ["fashion", "sustainability", "eco-friendly"],
+    "categories": ["Lifestyle", "Fashion"],
+    "comments": [
+      {
+        "user": "Sophia Turner",
+        "comment": "Great tips! I love the idea of a capsule wardrobe.",
+        "date": "2024-03-16"
+      }
+    ],
+    "image": "3.jpg"
+  },
+  {
+    "id": 9,
+    "title": "A Guide to Mindful Eating",
+    "author": {
+      "name": "Mark Wilson",
+      "bio": "Mark is a nutrition expert specializing in mindful eating practices.",
+      "email": "mark.wilson@example.com"
+    },
+    "date_published": "2024-02-10",
+    "tags": ["nutrition", "mindful eating", "health"],
+    "categories": ["Health & Wellness", "Nutrition"],
+    "comments": [
+      {
+        "user": "Alice White",
+        "comment": "This really opened my eyes to how I eat!",
+        "date": "2024-02-11"
+      }
+    ],
+    "image": "4.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Traveling on a Budget: Tips and Tricks",
+    "author": {
+      "name": "Jake Adams",
+      "bio": "Jake is a travel blogger who loves finding affordable ways to explore the world.",
+      "email": "jake.adams@example.com"
+    },
+    "date_published": "2024-01-05",
+    "tags": ["budget travel", "travel tips", "adventure"],
+    "categories": ["Travel", "Finance"],
+    "comments": [
+      {
+        "user": "Diana Green",
+        "comment": "Thank you for these practical tips!",
+        "date": "2024-01-06"
+      }
+    ],
+    "image": "5.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Importance of Sleep for Your Health",
+    "author": {
+      "name": "Brian Stevens",
+      "bio": "Brian is a health writer and advocate for sleep wellness.",
+      "email": "brian.stevens@example.com"
+    },
+    "date_published": "2023-12-20",
+    "tags": ["sleep", "health", "wellness"],
+    "categories": ["Health & Wellness", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Laura Young",
+        "comment": "I had no idea how much sleep affects my health!",
+        "date": "2023-12-21"
+      }
+    ],
+    "image": "1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Sustainable Gardening: How to Grow Your Own Food",
+    "author": {
+      "name": "Katie Sanchez",
+      "bio": "Katie is an organic gardener and writer who shares her passion for sustainable living.",
+      "email": "katie.sanchez@example.com"
+    },
+    "date_published": "2023-11-30",
+    "tags": ["gardening", "sustainability", "food"],
+    "categories": ["Lifestyle", "Gardening"],
+    "comments": [
+      {
+        "user": "Ben Knight",
+        "comment": "This is exactly what I need to start my garden!",
+        "date": "2023-12-01"
+      }
+    ],
+    "image": "2.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Benefits of Journaling for Mental Clarity",
+    "author": {
+      "name": "Nina Green",
+      "bio": "Nina is a mental health advocate who promotes journaling as a tool for self-discovery.",
+      "email": "nina.green@example.com"
+    },
+    "date_published": "2023-10-15",
+    "tags": ["journaling", "mental health", "self-care"],
+    "categories": ["Health & Wellness", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Owen Black",
+        "comment": "I started journaling last month, and it really helps!",
+        "date": "2023-10-16"
+      }
+    ],
+    "image": "3.jpg"
+  },
+  {
+    "id": 14,
+    "title": "How to Create a Capsule Wardrobe",
+    "author": {
+      "name": "Liam Lewis",
+      "bio": "Liam is a fashion consultant who specializes in minimalist wardrobe planning.",
+      "email": "liam.lewis@example.com"
+    },
+    "date_published": "2023-09-05",
+    "tags": ["fashion", "capsule wardrobe", "minimalism"],
+    "categories": ["Fashion", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Emma Hall",
+        "comment": "I love the idea of simplifying my wardrobe!",
+        "date": "2023-09-06"
+      }
+    ],
+    "image": "4.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Healthy Smoothie Recipes for a Quick Breakfast",
+    "author": {
+      "name": "Chloe Baker",
+      "bio": "Chloe is a health coach and food blogger focusing on easy and nutritious recipes.",
+      "email": "chloe.baker@example.com"
+    },
+    "date_published": "2023-08-20",
+    "tags": ["smoothies", "healthy recipes", "breakfast"],
+    "categories": ["Health & Wellness", "Food"],
+    "comments": [
+      {
+        "user": "Jack Carter",
+        "comment": "These recipes look delicious! Can't wait to try them.",
+        "date": "2023-08-21"
+      }
+    ],
+    "image": "5.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Understanding Cryptocurrency: A Beginner's Guide",
+    "author": {
+      "name": "Sophie King",
+      "bio": "Sophie is a financial analyst and educator passionate about cryptocurrency and blockchain technology.",
+      "email": "sophie.king@example.com"
+    },
+    "date_published": "2023-07-30",
+    "tags": ["cryptocurrency", "finance", "blockchain"],
+    "categories": ["Finance", "Technology"],
+    "comments": [
+      {
+        "user": "Ryan Scott",
+        "comment": "Great introduction to cryptocurrency!",
+        "date": "2023-07-31"
+      }
+    ],
+    "image": "1.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Power of Meditation for Stress Relief",
+    "author": {
+      "name": "George White",
+      "bio": "George is a meditation instructor with years of experience helping people find peace through meditation.",
+      "email": "george.white@example.com"
+    },
+    "date_published": "2023-06-25",
+    "tags": ["meditation", "stress relief", "wellness"],
+    "categories": ["Health & Wellness", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Alice Green",
+        "comment": "Meditation has helped me so much with stress!",
+        "date": "2023-06-26"
+      }
+    ],
+    "image": "2.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Planning the Perfect Road Trip",
+    "author": {
+      "name": "Ethan Johnson",
+      "bio": "Ethan is a travel enthusiast who shares tips for planning unforgettable road trips.",
+      "email": "ethan.johnson@example.com"
+    },
+    "date_published": "2023-05-10",
+    "tags": ["road trip", "travel", "adventure"],
+    "categories": ["Travel", "Lifestyle"],
+    "comments": [
+      {
+        "user": "Samantha White",
+        "comment": "Can't wait for my next road trip! Thanks for the tips.",
+        "date": "2023-05-11"
+      }
+    ],
+    "image": "3.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Exploring Plant-Based Diets: Health Benefits",
+    "author": {
+      "name": "Mia Garcia",
+      "bio": "Mia is a nutritionist who specializes in plant-based diets and healthy living.",
+      "email": "mia.garcia@example.com"
+    },
+    "date_published": "2023-04-15",
+    "tags": ["plant-based", "nutrition", "health"],
+    "categories": ["Health & Wellness", "Food"],
+    "comments": [
+      {
+        "user": "Leo Brown",
+        "comment": "This is inspiring! I want to try a plant-based diet.",
+        "date": "2023-04-16"
+      }
+    ],
+    "image": "4.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Home Workouts: Staying Fit Without a Gym",
+    "author": {
+      "name": "Ella Rodriguez",
+      "bio": "Ella is a fitness coach who believes in the power of home workouts for maintaining fitness.",
+      "email": "ella.rodriguez@example.com"
+    },
+    "date_published": "2023-03-20",
+    "tags": ["home workouts", "fitness", "health"],
+    "categories": ["Health & Wellness", "Fitness"],
+    "comments": [
+      {
+        "user": "Ava Lewis",
+        "comment": "These workouts are perfect for my busy schedule!",
+        "date": "2023-03-21"
+      }
+    ],
+    "image": "5.jpg"
+  }
+]
