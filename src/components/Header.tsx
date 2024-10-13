@@ -35,13 +35,13 @@ const Header = () => {
                 href="/login"
                 className="mr-3 text-gray-800 hover:text-gray-600"
               >
-                <FaSignInAlt className="inline mr-1" /> Login
+                <FaSignInAlt /> Login
               </Link>
               <Link
                 href="/register"
                 className="mr-3 text-gray-800 hover:text-gray-600"
               >
-                <FaUser className="inline mr-1" /> Register
+                <FaUser /> Register
               </Link>
             </div>
           </div>
