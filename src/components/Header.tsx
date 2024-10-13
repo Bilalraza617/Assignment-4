@@ -35,13 +35,18 @@ const Header = () => {
                 href="/login"
                 className="mr-3 text-gray-800 hover:text-gray-600"
               >
-                <FaSignInAlt /> Login
+                <div className="flex gap-1 items-center">
+                  <FaSignInAlt /> <span>Login</span>
+                </div>
               </Link>
+
               <Link
                 href="/register"
                 className="mr-3 text-gray-800 hover:text-gray-600"
               >
-                <FaUser /> Register
+                <div className="flex gap-1 items-center">
+                  <FaUser /> <span>Register</span>
+                </div>
               </Link>
             </div>
           </div>
