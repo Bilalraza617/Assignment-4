@@ -1,19 +1,7 @@
+import { bloog } from "@/types/type";
 import Image from "next/image";
 import Link from "next/link";
-const BlogCards = ({
-  bloogs,
-}: {
-  bloogs: {
-    id: number;
-    title: string;
-    author: { name: string; bio: string; email: string };
-    date_published: "string";
-    tags: string[];
-    categories: string[];
-    comments: [{ user: string; comment: string; date: string }];
-    image: string;
-  };
-}) => {
+const BlogCards = ({ bloogs }: { bloogs: bloog }) => {
   return (
     <div className="bg-white shadow rounded-lg p-4 mt-4 flex flex-col sm:flex-row justify-between items-start sm:items-center">
       <div className="flex flex-col sm:flex-row sm:space-x-4">
